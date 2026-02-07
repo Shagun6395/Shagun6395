@@ -32,7 +32,7 @@ Analytical and results-driven **Data Analyst** with hands-on experience in **SQL
 
 ---
 
-### 💼 Internship Experience
+### 💼 Internship Experience :
 **Data Analyst Intern — Grow With Guidance**  
 📅 *4 Weeks*
 
@@ -42,7 +42,7 @@ Analytical and results-driven **Data Analyst** with hands-on experience in **SQL
 
 ---
 
-### 📂 Featured Data Analytics Projects
+### 📂 Projects :
 
 #### 🔹 Sales Information & Profitability Analysis Dashboard  
 **Power BI | PostgreSQL | DAX**
@@ -87,7 +87,7 @@ Analytical and results-driven **Data Analyst** with hands-on experience in **SQL
 ### 📫 Connect With Me
 - 📧 Email: shagun07092005@gmail.com  
 - 💼 GitHub: https://github.com/Shagun6395  
-- 🔗 LinkedIn: *(Add your LinkedIn here)*  
+- 🔗 LinkedIn: www.linkedin.com/in/shagun-sharma-318324306  
 
 ---
 
