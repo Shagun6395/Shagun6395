@@ -4,6 +4,9 @@ Data Analyst | SQL • Python • Power BI • Excel
 </p>
 
 ---
+## [Check My Profile](https://shagun6395.github.io/shagun-portfolio/)
+---
+
 
 ### 🛠️ Tech Stack
 **Analytics:** SQL, Python (Pandas, NumPy), Excel  
@@ -21,7 +24,7 @@ Data Analyst | SQL • Python • Power BI • Excel
 ---
 
 ### 📫 Connect with me :
-- 📧 shagun07092005@gmail.com  
+- 📧 shagun07092005@gmail.com
 - 💼 [GitHub](https://github.com/Shagun6395)  
-- 🔗 LinkedIn (www.linkedin.com/in/shagun-sharma-318324306)
+- 🔗 [LinkedIn](www.linkedin.com/in/shagun-sharma-318324306)
 
